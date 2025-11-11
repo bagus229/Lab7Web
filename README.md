@@ -7,7 +7,7 @@
 
 ## 1. Install Xampp
 install terlebih dahulu
-###### ![Gambar 1](ss/boy1.png.png)
+###### ![Gambar 1](ss/boy1.png)
 
 ## 2. Menjalankan web server
 Untuk menjalankan web server dari menu XAMPP Control.
