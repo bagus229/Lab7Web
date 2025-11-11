@@ -67,3 +67,17 @@ output:
 
 ## Perulangan Dowhile
 ###### ![Gambar 1](ss/boy18.png)
+
+
+## Pertanyaan dan tugas
+Buatlah program PHP sederhana dengan menggunakan form input yang menampilkan
+nama, tanggal lahir dan pekerjaan. Kemudian tampilkan outputnya dengan menghitung
+umur berdasarkan inputan tanggal lahir. Dan pilihan pekerjaan dengan gaji yang
+berbeda-beda sesuai pilihan pekerjaan.
+
+Input:
+###### ![Gambar 1](ss/boy19.png)
+user menginput nama dan tanggal lahir, serta memilih pekerjaannya. untuk pekerjaan ada macam-macam dan gajinya sesuai dengan pekerjaan tersebut.
+
+Output:
+###### ![Gambar 1](ss/boy20.png)
